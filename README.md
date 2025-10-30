@@ -2,6 +2,7 @@
 
 **Version:** v1.0  
 **Developed by:** Onurhan Akbulut  
+**https://churn-dashboard-demo.streamlit.app**
 
 ---
 
