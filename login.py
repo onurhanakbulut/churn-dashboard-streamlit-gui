@@ -46,7 +46,7 @@ with col_logo:
     st.markdown("<h1 style='text-align:left;'>👋 Welcome to the Customer Churn Demo</h1>", unsafe_allow_html=True)
     st.markdown("""
         <p style='color:gray; font-size:16px; margin-top:-10px;'>
-            <b>Version:</b> v1.0 &nbsp; | &nbsp; Developed by <b>Onurhan Akbulut</b> 
+            <b>Version:</b> v1.0 &nbsp; | &nbsp; Developed by <b>Onurhan Akbulut-İlayda Sümer</b> 
         </p>
         """, unsafe_allow_html=True)
 with col_button:
@@ -135,7 +135,7 @@ st.markdown("""
     <hr style="margin-top: 50px; margin-bottom: 15px;">
     <div style='text-align: center; color: gray; font-size: 15px;'>
         <p> <b>Customer Churn Dashboard Demo</b> — Version <b>v1.0</b></p>
-        <p>Developed by <b>Onurhan Akbulut</b> | 2025</p>
+        <p>Developed by <b>Onurhan Akbulut-İlayda Sümer</b> | 2025</p>
     </div>
     """, unsafe_allow_html=True)
 
